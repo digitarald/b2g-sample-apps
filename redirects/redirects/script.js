@@ -1,0 +1,1 @@
+alert('SUCCESS! ' + location.hash);
